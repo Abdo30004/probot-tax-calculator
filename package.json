@@ -1,6 +1,6 @@
 {
   "name": "probot-tax-calculator",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A package calculate probot tax",
   "main": "function.js",
   "scripts": {
@@ -17,7 +17,10 @@
     "Dicord"
   ],
   "license": "ISC",
-  "dependencies": {
-    "pretty-error": "^3.0.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdo30004/probot-tax-calculator"
+  },
+  "dependencies": {}
 }
+
