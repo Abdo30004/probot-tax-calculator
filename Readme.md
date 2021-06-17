@@ -41,7 +41,7 @@ Integer : ptax.tax(1000)
 
 String :ptax.tax("1000")
 
-Float :ptax.tax(1000.0002)//Math.floor 
+Float :ptax.tax(1000.0002)//Math.round 
 
 //البكج يقوم تلقائيا بالتدوير إلى اقرب عدد ان كان الناتج عدد عشري اي :
 
