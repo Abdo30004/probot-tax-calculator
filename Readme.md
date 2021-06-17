@@ -104,7 +104,7 @@ client.login("Token")
 
 [**Dm**](https://discord.com/channels/@me/760952710383665192)
 
-![Avatar](https://cdn.discordapp.com/avatars/760952710383665192/096d2b0e3f015535b4bf8a100b88d409.png)
+![Avatar](https://api.abderrahmane300.repl.co/avatar/760952710383665192)
 
 [npm-url]: https://npmjs.org/package/probot-tax-calculator
 [npm-version-image]: https://img.shields.io/npm/v/probot-tax-calculator.svg?style=flat
