@@ -1,0 +1,23 @@
+{
+  "name": "probot-tax-calculator",
+  "version": "2.0.2",
+  "description": "A package calculate probot tax",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abderrahmane",
+  "keywords": [
+    "probot",
+    "pro-bot",
+    "tax",
+    "wasit",
+    "protax",
+    "pro-tax",
+    "Dicord"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "pretty-error": "^3.0.3"
+  }
+}
